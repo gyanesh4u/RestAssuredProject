@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4281" started-at="2020-06-09T15:48:51Z" finished-at="2020-06-09T15:48:55Z">
+  <suite name="Default suite" duration-ms="2431" started-at="2020-06-10T09:51:36Z" finished-at="2020-06-10T09:51:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4281" started-at="2020-06-09T15:48:51Z" finished-at="2020-06-09T15:48:55Z">
-      <class name="com.qa.test.Test_POST">
-        <test-method status="PASS" signature="test_1_delete()[pri:0, instance:com.qa.test.Test_POST@8bd1b6a]" name="test_1_delete" duration-ms="4235" started-at="2020-06-09T15:48:51Z" finished-at="2020-06-09T15:48:55Z">
+    <test name="Default test" duration-ms="2431" started-at="2020-06-10T09:51:36Z" finished-at="2020-06-10T09:51:38Z">
+      <class name="com.qa.test.Examples">
+        <test-method status="PASS" signature="test_Delete()[pri:0, instance:com.qa.test.Examples@8bd1b6a]" name="test_Delete" duration-ms="2384" started-at="2020-06-10T09:51:36Z" finished-at="2020-06-10T09:51:38Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_1_delete -->
-      </class> <!-- com.qa.test.Test_POST -->
+        </test-method> <!-- test_Delete -->
+      </class> <!-- com.qa.test.Examples -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
